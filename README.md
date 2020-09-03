@@ -76,5 +76,14 @@ https://github.com/willard-yuan/flask-keras-cnn-image-retrieval
 # face-alignment
 https://github.com/1adrianb/face-alignment
 
+# 3d活体检测
+https://github.com/SoftwareGift/FeatherNets_Face-Anti-spoofing-Attack-Detection-Challenge-CVPR2019
+https://github.com/AlexanderParkin/ChaLearn_liveness_challenge
+
+#人脸识别
+https://github.com/xialuxi/insightface
+##C++版mtcnn+arcface
+https://github.com/thongdk8/realtime-facereccpp
+
 
 
